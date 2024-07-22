@@ -15,14 +15,14 @@
    透過Unity引擎的開發，我們能夠打造更具互動性的遊戲體驗，將玩家帶入遊戲世界的深處。  
    使用精緻的畫面和豐富的互動性，讓使用者更深入地體驗遊戲產業的魅力。
 3. **資料來源**
-- **美術素材**
-  - Pixiv
-  - Pintrest
-  - Unity Assest
-- **音樂特效**
-  - [明日方舟 - 續拉古人](https://music.youtube.com/watch?v=0KeWvHs_kG0&si=mEJDlZrglzYd6PAB)
-  - [小森平的免費下載音效](https://taira-komori.jpn.org/freesoundtw.html)
-  - [站長素材](https://sc.chinaz.com/yinxiao/)
+   - **美術素材**
+     - Pixiv
+     - Pintrest
+     - Unity Assest
+   - **音樂特效**
+     - [明日方舟 - 續拉古人](https://music.youtube.com/watch?v=0KeWvHs_kG0&si=mEJDlZrglzYd6PAB)
+     - [小森平的免費下載音效](https://taira-komori.jpn.org/freesoundtw.html)
+     - [站長素材](https://sc.chinaz.com/yinxiao/)
 ## 協作工具
 - github
 ## 專案狀態
