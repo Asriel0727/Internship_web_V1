@@ -37,7 +37,7 @@ With detailed visuals and rich interactivity, users can better understand and ap
 
 ---
 
-## **Collaboration Tools**
+## **Version Control**
 - Git
 
 ## **CI/CD**
