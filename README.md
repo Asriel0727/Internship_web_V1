@@ -31,7 +31,9 @@
      - [小森平的免費下載音效](https://taira-komori.jpn.org/freesoundtw.html)
      - [站長素材](https://sc.chinaz.com/yinxiao/)
 ## 協作工具
-- github
+- git
+## CI/CD
+- Github Action
 ## 專案狀態
 - **目前問題**  
    - [ ] 切換各個介紹介面時並未記錄前一次的位置
