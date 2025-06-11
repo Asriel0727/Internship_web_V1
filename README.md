@@ -30,7 +30,7 @@
      - [明日方舟 - 續拉古人](https://music.youtube.com/watch?v=0KeWvHs_kG0&si=mEJDlZrglzYd6PAB)
      - [小森平的免費下載音效](https://taira-komori.jpn.org/freesoundtw.html)
      - [站長素材](https://sc.chinaz.com/yinxiao/)
-## 協作工具
+## 版控
 - git
 ## CI/CD
 - Github Action
