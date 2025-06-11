@@ -1,6 +1,13 @@
 # Internship_web_V1
 專業實習網頁，利用Unity製作
 
+<div align="center">
+
+| [繁體中文](README.md) | [English](README_en-us.md) | 
+
+</div>
+
+
 ## 專案介紹
 1. **網頁內容**
    - 地理位置
